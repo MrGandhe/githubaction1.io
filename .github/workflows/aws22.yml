@@ -1,7 +1,7 @@
 name: upload Deploy 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 
 jobs:
